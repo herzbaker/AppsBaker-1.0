@@ -9,7 +9,7 @@
 ## Team
 
 * [Kingsley Peh](mailto:king@appsbaker.com)
-* [Herz Garlan](mailto:herz@appsbaker.com)
+* [Herz Garlan](mailto:herzbaker@gmail.com)
 
 
 ## Description
